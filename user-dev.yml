@@ -25,5 +25,3 @@ eureka:
     lease-renewal-interval-in-seconds: 5
     # 服务失效时间5秒（默认90秒）
     lease-expiration-duration-in-seconds: 5
-test:
-  name: Neil
