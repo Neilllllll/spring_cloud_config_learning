@@ -27,4 +27,4 @@ eureka:
     lease-expiration-duration-in-seconds: 5
 
 test:
-  name: Neil2
+  name: Neil3
